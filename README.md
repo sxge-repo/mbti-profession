@@ -31,12 +31,14 @@ You will find the following resources:
 - **Analysis Files:**
   - Data exploratory R Markdown file (`Rmd`)
   - API web-scraping Jupyter Notebook file
+- **Data Visualization:**
+  - Interactive Tableau visualizations available [here](https://public.tableau.com/app/profile/anh.nguyen1769/viz/ThePerfectMatchMBTI-Profession/Dashboard1)
 
 ## How to Get Started
 
 1. **Explore the Data:** Dive into the datasets provided to understand the raw and cleaned data.
 2. **Analyze the Data:** Use the R Markdown file for exploratory analysis or build upon it with your own insights.
-3. **Visualize the Findings:** Check out the Tableau visualizations to see the MBTI-profession correlations brought to life.
+3. **Visualize the Findings:** Check out the [Tableau visualizations](https://public.tableau.com/app/profile/anh.nguyen1769/viz/ThePerfectMatchMBTI-Profession/Dashboard1) to see the MBTI-profession correlations brought to life.
 
 Join us in unraveling the MBTI-profession compatibility puzzle and uncovering the hidden patterns within!
 
